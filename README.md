@@ -89,6 +89,7 @@
 ### NAGARRO SOFTWARE PRIVATE LIMITED, INDIA
 *Location:* Sector 18, Gurugram, Haryana |  *Experience:* 2 Years 11 Months 
 </br>
+</br>
 **Engineer | E-commerce | Frontend React Developer | Jan 2024 – Present · 1 Year 2 Months**
 - Achievement: Promoted to Software Engineer (Jan 2024)
 - Skill Proficiency: Maintained 90%+ industry-standard efficiency in programming and software development.
