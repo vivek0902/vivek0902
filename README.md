@@ -110,7 +110,6 @@
 - Hands-on Training: Gained experience in industry-standard tools and methodologies within the BFSI team.
 - Full-Stack Development: Acquired strong foundational knowledge in frontend and backend development.
 </br>
-</br>
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
