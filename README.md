@@ -87,7 +87,7 @@
 
 ## Work Experience
 ### NAGARRO SOFTWARE PRIVATE LIMITED, INDIA
-</br>
+
 *Location:* Sector 18, Gurugram, Haryana |  *Experience:* 2 Years 11 Months 
 </br>
 </br>
