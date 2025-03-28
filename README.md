@@ -2,6 +2,10 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
+## Tech Stack
+**Client:** React, Redux, TailwindCSS
+**Server:** Node, Express
+
 ## Education
 - MTech., Big Data & Blockchain | Indian Institute of Technology, Patna | Nov 2023 - Nov 2025
 - MCA, Master of Computer Applications | The National Institute of Engineering, Mysuru | Aug 2019 - Sep 2022
