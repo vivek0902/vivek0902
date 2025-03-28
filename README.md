@@ -109,6 +109,8 @@
 **Trainee | Full Stack Developer | Apr 2022 – Sep 2022 · 6 Months**
 - Hands-on Training: Gained experience in industry-standard tools and methodologies within the BFSI team.
 - Full-Stack Development: Acquired strong foundational knowledge in frontend and backend development.
+</br>
+</br>
 
 
 ## Projects
