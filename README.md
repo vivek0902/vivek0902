@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
 
 ## Tech Stack
 **Client:** React, Redux, TailwindCSS
