@@ -1,11 +1,11 @@
 # Software Engineer
 
-
+## Education
+- MTech., Big Data & Blockchain | Indian Institute of Technology, Patna | Nov 2023 - Nov 2025
+- MCA, Master of Computer Applications | The National Institute of Engineering, Mysuru | Aug 2019 - Sep 2022
 
 ## Tech Stack
-**Client:** React, Redux, TailwindCSS
-**Server:** Node, Express
-
+**Frontend:** 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -63,10 +63,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
-
-## Education
-- MTech., Big Data & Blockchain | Indian Institute of Technology, Patna | Nov 2023 - Nov 2025
-- MCA, Master of Computer Applications | The National Institute of Engineering, Mysuru | Aug 2019 - Sep 2022
 
 
 ## Work Experience
