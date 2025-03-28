@@ -97,7 +97,6 @@
 - Adaptability: Achieved 85% efficiency rate in adopting new technologies and methodologies.
 - Continuous Learning: Dedicated 70% of professional time to upskilling and staying updated with industry trends.
 </br>
-
 **Associate Engineer | BFSI | Frontend Developer | Oct 2022 – Dec 2023 · 1 Year 3 Months**
 - Temenos Quantum Visualizer: Optimized service configurations, boosting efficiency by 20% in versions 8 and above. 
 - Security Implementation: Ensured 98% data integrity with SSL Pinning for a critical Android project. 
@@ -105,7 +104,6 @@
 - Software Development Methodologies: Enhanced project efficiency by 20% with industry-standard best practices.
 - Client Interaction: Maintained 95% client satisfaction rate through effective communication and support.
 </br>
-
 **Trainee | Full Stack Developer | Apr 2022 – Sep 2022 · 6 Months**
 - Hands-on Training: Gained experience in industry-standard tools and methodologies within the BFSI team.
 - Full-Stack Development: Acquired strong foundational knowledge in frontend and backend development.
