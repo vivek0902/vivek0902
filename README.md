@@ -89,13 +89,26 @@
 ### NAGARRO SOFTWARE PRIVATE LIMITED, INDIA
 *Experience:* 2 Years 11 Months | *Location:* Sector 18, Gurugram, Haryana
 
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Engineer | E-commerce | Frontend React Developer | Jan 2024 – Present · 1 Year 2 Months**
+- Achievement: Promoted to Software Engineer (Jan 2024)
+- Skill Proficiency: Maintained 90%+ industry-standard efficiency in programming and software development.
+- Project Success Rate: Delivered 95%+ of projects on time and within specifications.
+- Team Collaboration: Increased team efficiency by 75%, leading teams to successful project completion.
+- Adaptability: Achieved 85% efficiency rate in adopting new technologies and methodologies.
+- Continuous Learning: Dedicated 70% of professional time to upskilling and staying updated with industry trends.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+  **Associate Engineer | BFSI | Frontend Developer | Oct 2022 – Dec 2023 · 1 Year 3 Months**
+- Temenos Quantum Visualizer: Optimized service configurations, boosting efficiency by 20% in versions 8 and above. 
+- Security Implementation: Ensured 98% data integrity with SSL Pinning for a critical Android project. 
+- UI Development: Improved user satisfaction by 25% through enhanced UI/UX design for banking applications.
+- Software Development Methodologies: Enhanced project efficiency by 20% with industry-standard best practices.
+- Client Interaction: Maintained 95% client satisfaction rate through effective communication and support.
+
+**Trainee | Full Stack Developer | Apr 2022 – Sep 2022 · 6 Months**
+- Hands-on Training: Gained experience in industry-standard tools and methodologies within the BFSI team.
+- Full-Stack Development: Acquired strong foundational knowledge in frontend and backend development.
+
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
