@@ -137,18 +137,18 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <table>
   <tr>
     <td>
-      
+      <a href="https://dev.to">
         <img src="https://i.pinimg.com/564x/f1/d9/70/f1d9704c735da7acd16fc7891aea2e6a.jpg" width="300"/>
-       
+      </a>
       <br/>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="300"/>
       </a>
     </td>
     <td>
-      
+      <a href="https://dev.to">
         <img src="https://i.pinimg.com/564x/f1/d9/70/f1d9704c735da7acd16fc7891aea2e6a.jpg" width="300"/>
-      
+      </a>
       <br/>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="300"/>
