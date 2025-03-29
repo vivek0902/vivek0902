@@ -137,21 +137,21 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <div style="display: flex; gap: 20px;">
   <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
     <a href="https://dev.to">
-      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width="400"/>
+      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width="350"/>
     </a>  
     <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="350"/>
     </a>
   </div>
-
+</br>
   <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px;">
     <a href="https://dev.to">
-      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width="400"/>
+      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width="350"/>
     </a>  
     <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="350"/>
     </a>
   </div>
 </div>
