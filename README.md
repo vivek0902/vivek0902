@@ -132,11 +132,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <img style="background-color: #92a8d1;"src="https://user-images.githubusercontent.com/vivek0902/vivek0902-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif"/>
-  
-  <br/><br/><br/>
-</div>
+
 
