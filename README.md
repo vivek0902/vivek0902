@@ -124,20 +124,20 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://i.pinimg.com/564x/f1/d9/70/f1d9704c735da7acd16fc7891aea2e6a.jpg" width="300"/>
+        <img src="https://www.shutterstock.com/image-photo/project-managers-work-new-idea-600nw-2343099769.jpg" width="350"/>
       </a>
       <br/>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="300"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="350"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://i.pinimg.com/564x/f1/d9/70/f1d9704c735da7acd16fc7891aea2e6a.jpg" width="300"/>
+        <img src="https://www.shutterstock.com/image-photo/project-managers-work-new-idea-600nw-2343099769.jpg" width="350"/>
       </a>
       <br/>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="300"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="350"/>
       </a>
     </td>
   </tr>
