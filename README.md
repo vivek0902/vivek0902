@@ -120,8 +120,8 @@
 
 ## Projects
 <table>
-  <tr style="border-style: none;">
-    <td style="border-style: none;">
+  <tr>
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://www.shutterstock.com/image-photo/project-managers-work-new-idea-600nw-2343099769.jpg" width="350" height="150"/>
       </a>
@@ -139,7 +139,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="350"/>
       </a>
     </td>
-      <td>
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://www.shutterstock.com/image-photo/project-managers-work-new-idea-600nw-2343099769.jpg" width="350" height="150"/>
       </a>
@@ -150,6 +150,7 @@
     </td>
   </tr>
 </table>
+
 
 </br>
 
