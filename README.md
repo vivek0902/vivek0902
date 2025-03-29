@@ -1,4 +1,4 @@
-<span style="background-image: url('https://static.vecteezy.com/system/resources/thumbnails/002/099/443/small_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg'); 
+<div style="background-image: url('https://static.vecteezy.com/system/resources/thumbnails/002/099/443/small_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg'); 
                 background-size: cover; 
                 background-position: center; 
                 height: 400px; 
@@ -12,7 +12,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vivek+Sharma!;" />
 </h1>
-</span>
+</div>
 ## Education
 - MTech., Big Data & Blockchain | Indian Institute of Technology, Patna | Nov 2023 - Nov 2025
 - MCA, Master of Computer Applications | The National Institute of Engineering, Mysuru | Aug 2019 - Sep 2022
