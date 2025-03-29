@@ -119,7 +119,6 @@
 </br>
 
 ## Projects
-
 <table>
   <tr>
     <td>
@@ -183,7 +182,7 @@
     </td>
   </tr>
 </table>
-
+</br>
 
 ## Favorite YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
