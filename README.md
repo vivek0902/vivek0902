@@ -150,6 +150,37 @@
     </td>
   </tr>
 </table>
+<!-- BEGIN CARDS -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://www.shutterstock.com/image-photo/project-managers-work-new-idea-600nw-2343099769.jpg" width="250" height="150"/>
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="250"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://www.shutterstock.com/image-photo/project-managers-work-new-idea-600nw-2343099769.jpg" width="250" height="150"/>
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="250"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://www.shutterstock.com/image-photo/project-managers-work-new-idea-600nw-2343099769.jpg" width="250" height="150"/>
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="250"/>
+  </a>
+</p>
+<!-- END CARDS -->
 
 
 </br>
