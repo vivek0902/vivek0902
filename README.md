@@ -135,7 +135,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vivek0902/vivek0902/output/github-contribution-grid-snake.svg" />
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
   
   <br/><br/><br/>
 </div>
