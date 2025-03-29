@@ -1,5 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vivek0902.vivek0902" />
 # Software Engineer
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vivek0902.vivek0902" />
 
 ## Education
 - MTech., Big Data & Blockchain | Indian Institute of Technology, Patna | Nov 2023 - Nov 2025
