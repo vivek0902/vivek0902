@@ -134,26 +134,28 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: nowrap;">
-  <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 370px;">
-    <a href="https://dev.to">
-      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width="300"/>
-    </a>  
-    <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="300"/>
-    </a>
-  </div>
+<table>
+  <tr>
+    <td>
+      <a href="https://dev.to">
+        <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width="300"/>
+      </a>  
+      <br/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to">
+        <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width="300"/>
+      </a>  
+      <br/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <div style="border: 1px solid #ddd; padding: 10px; border-radius: 8px; width: 370px;">
-    <a href="https://dev.to">
-      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png" width="300"/>
-    </a>  
-    <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="300"/>
-    </a>
-  </div>
-</div>
 
 
