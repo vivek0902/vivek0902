@@ -135,3 +135,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vivek0902&repo=Criminal-Identification-System)](https://github.com/vivek0902/Criminal-Identification-System)
