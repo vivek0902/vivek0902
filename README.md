@@ -137,7 +137,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 <table>
   <tr>
     <td>
-      <a href="https://dev.to">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://i.pinimg.com/564x/f1/d9/70/f1d9704c735da7acd16fc7891aea2e6a.jpg" width="300"/>
       </a>
       <br/>
@@ -146,7 +146,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
       </a>
     </td>
     <td>
-      <a href="https://dev.to">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://i.pinimg.com/564x/f1/d9/70/f1d9704c735da7acd16fc7891aea2e6a.jpg" width="300"/>
       </a>
       <br/>
