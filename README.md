@@ -157,7 +157,7 @@
 ## Favorite YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<p>
+<div>
   <a href="https://youtu.be/6l8RWV8D-Yo?si=9Or0Tz1Ci5gDDqeQ">
     <img src="https://ytcards.demolab.com/?id=6l8RWV8D-Yo&title=10+Hour+React+Tutorial+2023+-+Zero+to+Advanced&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" 
     alt="10-Hour React Tutorial 2023 - Zero to Advanced | Learn React JS in Hindi"/>
@@ -172,11 +172,8 @@
     <img src="https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786" 
     alt="My Computer Science degree in 13 minutes"/>
   </a>
-  <a href="https://youtu.be/Dd_4zfmY-aA?si=1AhwiUIamfs6clV3">
-    <img src="https://ytcards.demolab.com/?id=Dd_4zfmY-aA&title=My+Computer+Science+degree+in+13+minutes&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786" 
-    alt="My Computer Science degree in 13 minutes"/>
-  </a>
-</p>
+  
+</div>
 <!-- END YOUTUBE-CARDS -->
 
 
