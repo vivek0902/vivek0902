@@ -121,7 +121,7 @@
 ## Projects
 
 <table>
-  <tr>
+  <tr style="border: 2px solid transparent;">
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://www.shutterstock.com/image-photo/project-managers-work-new-idea-600nw-2343099769.jpg" width="350"/>
