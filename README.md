@@ -1,4 +1,4 @@
-![Dark Neon Simple Futuristic UIUX Designer LinkedIn Banner](https://github.com/user-attachments/assets/25f7b1c9-21d7-4f38-8eac-a685becccf61)
+![Github-cover](https://github.com/user-attachments/assets/6918cc01-e71a-4518-b775-fd2ad3692e3a)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vivek0902.vivek0902" />
 
