@@ -144,6 +144,60 @@
   </tr>
 </table>
 <!-- END CARDS --> 
+<!-- BEGIN CARDS -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/vivek0902/2048-game-in-reactjs">
+        <img src="https://images.crazygames.com/games/2048/cover_16x9-1707828856995.png" width="350" height="150"/>
+      </a>
+      <br/>
+      <a href="https://vivek0902.github.io/2048-game-in-reactjs/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-%23181717.svg?style=for-the-badge&logo=react&logoColor=white" />
+      </a>
+      <a href="https://github.com/vivek0902/2048-game-in-reactjs" target="_blank">
+        <img src="https://img.shields.io/badge/Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+        <br/>
+      <a href="https://github.com/vivek0902/2048-game-in-reactjs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek0902&repo=2048-game-in-reactjs&theme=dark" width="350"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vivek0902/scroll-top-bottom">
+        <img src="https://user-images.githubusercontent.com/1680273/187046411-677c24c4-043a-4505-b2ef-6bd1eb7ad311.png" width="350" height="150"/>
+      </a>
+      <br/>
+      <a href="https://vivek0902.github.io/scroll-top-bottom" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-%23181717.svg?style=for-the-badge&logo=react&logoColor=white" />
+      </a>
+      <a href="https://github.com/vivek0902/scroll-top-bottom" target="_blank">
+        <img src="https://img.shields.io/badge/Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+        <br/>
+      <a href="https://github.com/vivek0902/scroll-top-bottom">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek0902&repo=scroll-top-bottom&theme=dark" width="350"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/vivek0902/Feature-Flag-in-React-using-useContext-hook">
+        <img src="https://miro.medium.com/v2/resize:fit:1200/1*YxQWofI7RVPWLGtfblAgmw.png" width="350" height="150"/>
+      </a>
+         <br/>
+      <a href="https://vivek0902.github.io/Feature-Flag-in-React-using-useContext-hook/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-%23181717.svg?style=for-the-badge&logo=react&logoColor=white" />
+      </a>
+      <a href="https://github.com/vivek0902/Feature-Flag-in-React-using-useContext-hook" target="_blank">
+        <img src="https://img.shields.io/badge/Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://github.com/vivek0902/Feature-Flag-in-React-using-useContext-hook">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek0902&repo=Feature-Flag-in-React-using-useContext-hook&theme=dark" width="350"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- END CARDS --> 
 <br/>
 
 ## Work Experience
