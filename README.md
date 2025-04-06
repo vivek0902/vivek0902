@@ -148,19 +148,19 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/vivek0902/2048-game-in-reactjs">
-        <img src="https://images.crazygames.com/games/2048/cover_16x9-1707828856995.png" width="350" height="150"/>
+      <a href="https://github.com/vivek0902/bookmyshow-movie-booking-interface-in-react">
+        <img src="https://github.com/user-attachments/assets/ed2f57a3-7060-4719-8aea-bb8ce8c269fd" width="350" height="150"/>
       </a>
       <br/>
-      <a href="https://vivek0902.github.io/2048-game-in-reactjs/" target="_blank">
+      <a href="https://vivek0902.github.io/bookmyshow-movie-booking-interface-in-react" target="_blank">
         <img src="https://img.shields.io/badge/Live%20Demo-%23181717.svg?style=for-the-badge&logo=react&logoColor=white" />
       </a>
-      <a href="https://github.com/vivek0902/2048-game-in-reactjs" target="_blank">
+      <a href="https://github.com/vivek0902/bookmyshow-movie-booking-interface-in-react" target="_blank">
         <img src="https://img.shields.io/badge/Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
       </a>
         <br/>
-      <a href="https://github.com/vivek0902/2048-game-in-reactjs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek0902&repo=2048-game-in-reactjs&theme=dark" width="350"/>
+      <a href="https://github.com/vivek0902/bookmyshow-movie-booking-interface-in-react">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivek0902&repo=bookmyshow-movie-booking-interface-in-react&theme=dark" width="350"/>
       </a>
     </td>
     <td>
