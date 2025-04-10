@@ -149,7 +149,7 @@
   <tr>
     <td>
       <a href="https://github.com/vivek0902/bookmyshow-movie-booking-interface-in-react">
-        <img src="https://github.com/user-attachments/assets/ed2f57a3-7060-4719-8aea-bb8ce8c269fd" width="350" height="150"/>
+        <img src="https://github.com/user-attachments/assets/623b190b-f7cf-49dc-a7ea-d0bf821b0546" width="350" height="150"/>
       </a>
       <br/>
       <a href="https://vivek0902.github.io/bookmyshow-movie-booking-interface-in-react" target="_blank">
