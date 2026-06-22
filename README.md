@@ -205,26 +205,60 @@
 *Location:* Sector 18, Gurugram, Haryana |  *Experience:* 2 Years 11 Months 
 </br>
 </br>
-**Engineer | E-commerce | Frontend React Developer | Jan 2024 – Present · 1 Year 2 Months**
-- Achievement: Promoted to Software Engineer (Jan 2024)
-- Skill Proficiency: Maintained 90%+ industry-standard efficiency in programming and software development.
-- Project Success Rate: Delivered 95%+ of projects on time and within specifications.
-- Team Collaboration: Increased team efficiency by 75%, leading teams to successful project completion.
-- Adaptability: Achieved 85% efficiency rate in adopting new technologies and methodologies.
-- Continuous Learning: Dedicated 70% of professional time to upskilling and staying updated with industry trends.
-</br>
+**Senior Engineer | Full Stack Developer | Apr 2022 – Mar 2026 · 4 Years**
+- Developed scalable enterprise applications using React.js, Node.js, Express.js, PostgreSQL, and Redis.
+- Designed and implemented microservices architecture, improving system modularity, scalability, and maintainability.
+- Built and optimized high-performance React applications, enhancing user experience and reducing application load times.
+- Developed and integrated secure RESTful APIs with proper validation, authentication, and error handling.
+- Implemented event-driven architecture using Apache Kafka and RabbitMQ for asynchronous communication and real-time data processing.
+- Applied Redis caching strategies to improve API response times and reduce backend load.
+- Built Feature Flagging solutions using React Hooks and PostHog, enabling controlled feature rollouts.
+- Developed client-side persistence mechanisms using IndexedDB for improved application reliability.
+- Contributed to architecture decisions through POCs, ADRs, and technical documentation.
+- Worked closely with cross-functional teams in Agile environments, participating in sprint planning, demos, and production releases.
+- Supported production deployments, monitoring, debugging, and performance optimization to ensure high system availability.
+- Contributed to enterprise AI initiatives involving LLM integrations, knowledge graphs, and AI-driven workflows.
 
-**Associate Engineer | BFSI | Frontend Developer | Oct 2022 – Dec 2023 · 1 Year 3 Months**
-- Temenos Quantum Visualizer: Optimized service configurations, boosting efficiency by 20% in versions 8 and above. 
-- Security Implementation: Ensured 98% data integrity with SSL Pinning for a critical Android project. 
-- UI Development: Improved user satisfaction by 25% through enhanced UI/UX design for banking applications.
-- Software Development Methodologies: Enhanced project efficiency by 20% with industry-standard best practices.
-- Client Interaction: Maintained 95% client satisfaction rate through effective communication and support.
-</br>
+Enterprise Projects
 
-**Trainee | Full Stack Developer | Apr 2022 – Sep 2022 · 6 Months**
-- Hands-on Training: Gained experience in industry-standard tools and methodologies within the BFSI team.
-- Full-Stack Development: Acquired strong foundational knowledge in frontend and backend development.
+### ZENDA – Intelligent Operations Modeling Platform
+
+Enterprise-grade intelligent operations platform providing real-time visibility into workforce behavior, business processes, and system interactions. The platform helps organizations identify operational bottlenecks, optimize workflows, and make data-driven decisions through actionable insights.
+
+#### Key Contributions
+
+* Designed and developed scalable, data-intensive dashboards using React.js and Redux.
+* Built and enhanced RESTful APIs using Node.js and Express.js.
+* Implemented Feature Flagging solutions using React Hooks and PostHog for controlled feature rollouts.
+* Integrated Apache Kafka and RabbitMQ for event-driven and asynchronous communication.
+* Developed client-side persistence using IndexedDB to ensure data retention across application reloads.
+* Implemented secure Authentication and Authorization mechanisms using session and refresh tokens.
+* Applied Redis caching strategies to improve API performance and reduce backend load.
+* Contributed to architecture decisions through POCs, ADRs, and technical documentation.
+* Supported production deployments, monitoring, and issue resolution in a microservices environment.
+
+**Tech Stack:** React.js • Redux • Node.js • Express.js • PostgreSQL • Redis • Apache Kafka • RabbitMQ • AWS
+
+---
+
+### Genome AI – Enterprise AI Digital Operating System
+
+Enterprise AI platform that unifies LLMs, knowledge graphs, enterprise data sources, and business workflows into a single intelligent ecosystem. The platform enables AI-driven automation, predictive analytics, and real-time decision-making across multiple business domains.
+
+#### Key Contributions
+
+* Developed AI-powered dashboards and workflow management modules using React.js and Redux.
+* Built scalable backend services and APIs using Node.js and Express.js.
+* Integrated enterprise AI services and Large Language Models (LLMs) to enable intelligent automation capabilities.
+* Worked with knowledge graph-based data structures for advanced analytics and business insights.
+* Implemented Kafka and RabbitMQ-based event-driven architectures for real-time data processing.
+* Optimized large-scale data processing systems and API performance.
+* Applied Redis caching strategies to improve responsiveness of data-intensive operations.
+* Collaborated on microservices-based architecture ensuring scalability and maintainability.
+* Supported production deployments, monitoring, and continuous improvements of enterprise AI solutions.
+
+**Tech Stack:** React.js • Redux • Node.js • Express.js • PostgreSQL • Redis • Apache Kafka • RabbitMQ • AWS • Generative AI • LLMs • Knowledge Graphs
+
 
 
 
