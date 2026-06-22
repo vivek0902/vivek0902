@@ -6,6 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=NotoSerif&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vivek+Sharma!;+A+Software+Developer;+Welcome+to+my+github;" />
 </h1>
 
+## Full Stack Developer | React | Node.js | Microservices | AWS | AI Enthusiast
+- Full Stack Developer with 4+ years of experience building scalable enterprise applications using React.js, Node.js, Express.js, PostgreSQL, Redis, Kafka, RabbitMQ, and AWS.
+
 ## Education
 - MTech., Big Data & Blockchain | Indian Institute of Technology, Patna | Nov 2023 - Nov 2025
 - MCA, Master of Computer Applications | The National Institute of Engineering, Mysuru | Aug 2019 - Sep 2022
@@ -35,6 +38,74 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
+</br>
+## 🛠 Tech Stack
+
+
+
+### Frontend
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+
+
+
+### Backend
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+
+
+
+### Databases & Cache
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis)
+
+
+
+### Cloud & DevOps
+
+
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+
+
+
+### Messaging & Streaming
+
+
+
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq)
+
+
+
+---
 </br>
 
 **Backend & Database:** 
