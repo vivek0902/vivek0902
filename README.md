@@ -204,7 +204,7 @@
 
 ## Work Experience
 ### NAGARRO SOFTWARE PRIVATE LIMITED, INDIA
-*Location:* Sector 18, Gurugram, Haryana |  *Experience:* 2 Years 11 Months 
+*Location:* Sector 18, Gurugram, Haryana |  *Experience:* 4+ Years
 </br>
 </br>
 **Senior Engineer | Full Stack Developer | Apr 2022 – Mar 2026 · 4 Years**
